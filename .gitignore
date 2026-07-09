@@ -1,0 +1,25 @@
+# Maven
+target/
+*.class
+
+# Log files
+*.log
+*.log.*
+
+# Tools and Local JVM
+tools/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Agent configuration and documents
+walkthrough.md
+Leave_Management_Testing_Document.docx
+Leave_Management_Flow_Document.docx
+create_docx.ps1
